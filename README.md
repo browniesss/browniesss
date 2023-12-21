@@ -1,6 +1,6 @@
 ## LEE JEONG WOO 😉
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kl45678)](https://solved.ac/kl45678/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kl45678)&theme=dark) 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={kl45678})&theme=dark) 
 <img src="http://mazandi.herokuapp.com/api?handle={kl45678@naver.com}&theme=dark"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=browniesss&show_icons=true&theme=radical)
