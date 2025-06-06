@@ -23,14 +23,18 @@
   <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
 
-#### 🧰 Tools & Platforms
+#### 🎮 Graphics & Engine
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NGUI-008080?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DirectX%2012-0082C9?style=for-the-badge&logo=directx&logoColor=white"/>
 </p>
 
-#### 🗂️ Project & Documentation
+#### 🧰 Tools & CI
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+#### 🗂️ Documentation & Collaboration
 <p>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
@@ -41,7 +45,6 @@
 <p>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
-
 ---
 ### 🌱 Activities
 
