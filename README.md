@@ -10,7 +10,7 @@
 ### 🧑‍💻 Career
 
 - 🏢 **Treenod** (2023.01 ~)
-- 🎮 **[LINE POKOPOKO]** 프로젝트 진행 중 – Mobile Puzzle Game
+  - 🎮 **[LINE POKOPOKO]** 프로젝트 진행 중 – Mobile Puzzle Game
 
 ---
 
@@ -45,6 +45,7 @@
 <p>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
+
 ---
 
 ### 🌱 Activities
@@ -52,9 +53,8 @@
 - 👥 **쿡앱스 소셜클럽 3기** 활동
 - 📚 *게임 개발자들의 기술 스택 이야기* 주제로 스터디 진행  
   👉 [스터디 아티클](https://www.gamemakers.community/study/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=66323601&t=board)
-  
----
 
+---
 ### 📫 Contact Me
 
 <p align="center">
