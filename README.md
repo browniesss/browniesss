@@ -27,6 +27,7 @@
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/DirectX%2012-0082C9?style=for-the-badge&logo=directx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MapleStory%20Worlds-FF6B00?style=for-the-badge&logo=nintendo&logoColor=white"/>
 </p>
 
 #### 🧰 Tools & CI
